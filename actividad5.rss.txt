@@ -1,0 +1,26 @@
+<rss version="2.0">
+  <channel>
+    <title>Ejemplo de Canal RSS</title>
+    <description>Últimas noticias sobre tecnología</description>
+    <link>https://www.ejemplo.com</link>
+    <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
+    <item>
+      <title>Nueva actualización de software</title>
+      <description>Detalles sobre la última actualización...</description>
+      <link>https://www.ejemplo.com/noticia1</link>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nuevo Smartphone</title>
+      <description>Detalles sobre el nuevo smartphone</description>
+      <link>https://www.ejemplo.com/noticia2</link>
+      <pubDate>Mon, 01 Jan 2024 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Benchmarks de la nueva GPU de NVIDIA</title>
+      <description>Detalles sobre el rendimiento de la nueva GPU de NVIDIA</description>
+      <link>https://www.ejemplo.com/noticia3</link>
+      <pubDate>Mon, 01 Jan 2024 12:05:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
